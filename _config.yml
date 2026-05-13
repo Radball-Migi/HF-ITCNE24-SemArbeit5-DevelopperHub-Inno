@@ -19,26 +19,26 @@
 # in the templates via {{ site.myvariable }}.
 
 # site overview stuff
-title: HF-ITCNE24-SemArbeit_-___-______ # After "Semesterarbeit" add the number of the semester, then the Subject and the name of the project
-email: max.mustermann@contoso.ch # Add your email address here, if you want to be contacted by email
+title: HF-ITCNE24-SemArbeit5-DevelopperHub-Inno # After "Semesterarbeit" add the number of the semester, then the Subject and the name of the project
+email: miguel.schneider@edu.tbz.ch # Add your email address here, if you want to be contacted by email
 
 description: >- # this means to ignore newlines until another declaration. Add a short description of your project here. This will be shown in the meta tags of the HTML files.
-  "Test description" 
+  "5. Semesterarbeit von Miguel Schneider" 
 
 # personal stuff
-author: ""
-github_username:  ""
+author: "Miguel (Migi) Schneider"
+github_username:  "Radball-Migi"
 
 # external stuff
 aux_links:
-  Projektplanung: # Add your Project pannintg link here
+  Projektplanung: "https://github.com/users/Radball-Migi/projects/"
 aux_links_new_tab: true
 
 
 # technical site stuff
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "" # Add your logo here, if you have one. This will be shown in the top left corner of the page.
-favicon_ico: "" # Add your favicon here, if you have one. This will be shown in the browser tab.
+url: "https://github.com/Radball-Migi/HF-ITCNE24-SemArbeit5-DevelopperHub-Inno" # the base hostname & protocol for your site, e.g. http://example.com
+logo: "/ressources/images/migi_logo.png" # Add your logo here, if you have one. This will be shown in the top left corner of the page.
+favicon_ico: "/ressources/images/migi.jpg" # Add your favicon here, if you have one. This will be shown in the browser tab.
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
