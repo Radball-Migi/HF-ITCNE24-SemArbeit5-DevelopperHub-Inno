@@ -7,7 +7,7 @@ permalink: /
 
 # Willkommen!
 
-Unter dieser Page findest du die Dokumentation von Miguel Schneider ______, über Innovationsanagement ____. 
+Unter dieser Page findest du die Dokumentation von Miguel Schneider ______, über Innovationsanagement. 
 
 Diese Webseite wird von Github Pages gehostet.
 Sie wird durch meine Einträge im Gitrepo stetig aktualisiert und erneuert.
