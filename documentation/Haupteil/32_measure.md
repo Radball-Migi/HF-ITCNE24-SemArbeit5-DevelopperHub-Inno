@@ -71,7 +71,7 @@ Zur Analyse des aktuellen Zustands wurden folgende Aspekte erhoben und dokumenti
     Funktionale und nicht-funktionale Anforderungen, welche durch die zukünftige Plattform erfüllt werden sollen.
 
 
-Die Ergebnisse dieser Erhebung bilden die Grundlage für die nachfolgende [**Analyze-Phase**](https://chatgpt.com/g/g-p-69f6082e02688191b0b58d3aa772ef9a-sem5arbeit/c/33_analyze.md), in der Ursachen für die bestehende dezentrale Struktur sowie mögliche Lösungsansätze durch die Einführung eines Kubernetes-basierten Developer Hubs systematisch untersucht werden.
+Die Ergebnisse dieser Erhebung bilden die Grundlage für die nachfolgende [**Analyze-Phase**](./33_analyze.md), in der Ursachen für die bestehende dezentrale Struktur sowie mögliche Lösungsansätze durch die Einführung eines Kubernetes-basierten Developer Hubs systematisch untersucht werden.
 
 
 

@@ -35,29 +35,29 @@ Da der Umfang der Semesterarbeit eine detaillierte Analyse aller verfügbaren L�
 
 Für die Eingrenzung wurden folgende Ausschluss- und Auswahlkriterien definiert:
 
-|Kriterium|Begründung|
-|---|---|
-|Kubernetes-Unterstützung|Die Zielplattform basiert auf Kubernetes|
-|Self-Hosting möglich|Betrieb soll lokal bzw. unter eigener Kontrolle erfolgen|
-|Aktive Weiterentwicklung|Langfristige Zukunftssicherheit|
-|Marktverbreitung|Relevanz und Akzeptanz in Unternehmen|
-|Dokumentation verfügbar|Nachvollziehbarkeit und Implementierbarkeit|
-|Unterstützung von Software-Katalogen|Zentrale Verwaltung von Projekten und Services|
-|Erweiterbarkeit|Möglichkeit für spätere Integrationen (z. B. KI)|
+| Kriterium                            | Begründung                                               |
+| ------------------------------------ | -------------------------------------------------------- |
+| Kubernetes-Unterstützung             | Die Zielplattform basiert auf Kubernetes                 |
+| Self-Hosting möglich                 | Betrieb soll lokal bzw. unter eigener Kontrolle erfolgen |
+| Aktive Weiterentwicklung             | Langfristige Zukunftssicherheit                          |
+| Marktverbreitung                     | Relevanz und Akzeptanz in Unternehmen                    |
+| Dokumentation verfügbar              | Nachvollziehbarkeit und Implementierbarkeit              |
+| Unterstützung von Software-Katalogen | Zentrale Verwaltung von Projekten und Services           |
+| Erweiterbarkeit                      | Möglichkeit für spätere Integrationen (z. B. KI)         |
 
 ---
 
 ## Ergebnis der Grob-Evaluation
 
-|Produkt|Ergebnis|Begründung|
-|---|---|---|
-|Backstage|Ausgewählt|Hohe Verbreitung, Kubernetes-Fokus, Self-Hosting und grosse Erweiterbarkeit|
-|Red Hat Developer Hub (RHDH)|Ausgewählt|Enterprise-Variante von Backstage mit professionellem Support|
-|Port|Ausgewählt|Etablierte Developer-Portal-Lösung mit moderner Benutzeroberfläche|
-|Cortex|Nicht weiter betrachtet|Fokus auf grosse Enterprise-Organisationen, eingeschränkte Relevanz für den PoC|
-|OpsLevel|Nicht weiter betrachtet|Fokus auf SaaS-Betrieb, Self-Hosting nicht im Vordergrund|
-|Atlassian Compass|Nicht weiter betrachtet|Starke Abhängigkeit vom Atlassian-Ökosystem|
-|Harness IDP|Nicht weiter betrachtet|Starke Ausrichtung auf bestehende Harness-Kunden|
+| Produkt                      | Ergebnis                | Begründung                                                                      |
+| ---------------------------- | ----------------------- | ------------------------------------------------------------------------------- |
+| Backstage                    | Ausgewählt              | Hohe Verbreitung, Kubernetes-Fokus, Self-Hosting und grosse Erweiterbarkeit     |
+| Red Hat Developer Hub (RHDH) | Ausgewählt              | Enterprise-Variante von Backstage mit professionellem Support                   |
+| Port                         | Ausgewählt              | Etablierte Developer-Portal-Lösung mit moderner Benutzeroberfläche              |
+| Cortex                       | Nicht weiter betrachtet | Fokus auf grosse Enterprise-Organisationen, eingeschränkte Relevanz für den PoC |
+| OpsLevel                     | Nicht weiter betrachtet | Fokus auf SaaS-Betrieb, Self-Hosting nicht im Vordergrund                       |
+| Atlassian Compass            | Nicht weiter betrachtet | Starke Abhängigkeit vom Atlassian-Ökosystem                                     |
+| Harness IDP                  | Nicht weiter betrachtet | Starke Ausrichtung auf bestehende Harness-Kunden                                |
 
 ---
 
@@ -103,17 +103,17 @@ Diese Produkte erfüllen die technischen Anforderungen der ISE AG am besten und 
 
 ## Bewertungsmatrix
 
-|Kriterium|Gewichtung|Faktor|Backstage|RHDH|Port|
-|---|---|---|---|---|---|
-|Kubernetes Integration|Hoch|3|5|5|3|
-|Self-Hosting|Hoch|3|5|5|2|
-|Erweiterbarkeit|Hoch|3|5|4|3|
-|Benutzerfreundlichkeit|Mittel|2|3|4|5|
-|Dokumentation & Community|Mittel|2|5|4|3|
-|Enterprise-Funktionen|Mittel|2|4|5|4|
-|Betriebsaufwand|Mittel|2|3|2|5|
-|Kosten|Hoch|3|5|2|3|
-|KI-Integration|Mittel|2|5|4|3|
+| Kriterium                 | Gewichtung | Faktor | Backstage | RHDH | Port |
+| ------------------------- | ---------- | ------ | --------- | ---- | ---- |
+| Kubernetes Integration    | Hoch       | 3      | 5         | 5    | 3    |
+| Self-Hosting              | Hoch       | 3      | 5         | 5    | 2    |
+| Erweiterbarkeit           | Hoch       | 3      | 5         | 4    | 3    |
+| Benutzerfreundlichkeit    | Mittel     | 2      | 3         | 4    | 5    |
+| Dokumentation & Community | Mittel     | 2      | 5         | 4    | 3    |
+| Enterprise-Funktionen     | Mittel     | 2      | 4         | 5    | 4    |
+| Betriebsaufwand           | Mittel     | 2      | 3         | 2    | 5    |
+| Kosten                    | Hoch       | 3      | 5         | 2    | 3    |
+| KI-Integration            | Mittel     | 2      | 5         | 4    | 3    |
 
 ---
 
@@ -136,11 +136,11 @@ Diese Produkte erfüllen die technischen Anforderungen der ISE AG am besten und 
 
 # Ergebnis
 
-|Plattform|Gesamtpunkte|Bewertung|
-|---|---|---|
-|**Backstage**|**100 Punkte**|**Sehr gut geeignet**|
-|**Red Hat Developer Hub (RHDH)**|**86 Punkte**|Gut geeignet|
-|**Port**|**73 Punkte**|Geeignet|
+| Plattform                        | Gesamtpunkte   | Bewertung             |
+| -------------------------------- | -------------- | --------------------- |
+| **Backstage**                    | **100 Punkte** | **Sehr gut geeignet** |
+| **Red Hat Developer Hub (RHDH)** | **86 Punkte**  | Gut geeignet          |
+| **Port**                         | **73 Punkte**  | Geeignet              |
 
 ---
 
