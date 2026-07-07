@@ -8,7 +8,7 @@ nav_order: 5
 
 Um meine Semesterarbeit strukturiert voranzutreiben, habe ich zwei unterschiedliche Zeitpläne erstellt. Diese Zeitpläne variieren in ihrer Detailtiefe und bieten mir somit verschiedene Ansätze zur Organisation meiner Arbeit.
 
-Dies ist der grobe Zeitplan, welchen ich aus dem [Einreichungsformular](../../ressources/docs/ITCNE24_Semesterarbeit_5_Einreichungsformular_Miguel_Schneider.pdf) entnommen habe. 
+Dies ist der grobe Zeitplan, welchen ich aus dem <a href="https://github.com/Radball-Migi/HF-ITCNE24-SemArbeit5-DevelopperHub-Inno/blob/main/ressources/docs/ITCNE24_Semesterarbeit-5_Einreichungsformular_Miguel_Schneider.pdf" target="_blank">Einreichungsformular</a> entnommen habe. 
 
 | Datum               | Aktivität                                                      | Wer                                                 | Empfänger                        |
 | ------------------- | -------------------------------------------------------------- | --------------------------------------------------- | -------------------------------- |

@@ -121,7 +121,7 @@ Die Bewertung erfolgte anhand technischer und organisatorischer Kriterien wie Ku
 
 Die gewichtete Gesamtbewertung ergab, dass Backstage die definierten Anforderungen am besten erfüllt und die höchste Gesamtpunktzahl erreicht.
 
-> **Hinweis:** Die vollständige Evaluation inklusive Marktanalyse, Bewertungsmatrix, Gewichtungsmodell und Entscheidungsgrundlage ist im Kapitel <a href="(https://github.com/Radball-Migi/HF-ITCNE24-SemArbeit5-DevelopperHub-Inno/blob/main/ressources/docs/Evaluation.md)" target="_blank">Evaluation Developer Hubs</a> dokumentiert.
+> **Hinweis:** Die vollständige Evaluation inklusive Marktanalyse, Bewertungsmatrix, Gewichtungsmodell und Entscheidungsgrundlage ist im Kapitel <a href="https://github.com/Radball-Migi/HF-ITCNE24-SemArbeit5-DevelopperHub-Inno/blob/main/ressources/docs/Evaluation.md" target="_blank">Evaluation Developer Hubs</a> dokumentiert.
 
 ---
 
