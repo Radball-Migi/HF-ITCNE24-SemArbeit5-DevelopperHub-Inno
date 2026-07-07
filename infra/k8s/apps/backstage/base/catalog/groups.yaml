@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+
+metadata:
+  name: hf-itcne24
+  description: Semesterarbeit HF ITCNE24
+
+spec:
+  type: team
+
+  profile:
+    displayName: HF ITCNE24
+
+  children: []

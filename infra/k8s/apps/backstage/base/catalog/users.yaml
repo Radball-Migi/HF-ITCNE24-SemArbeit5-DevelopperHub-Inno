@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+
+metadata:
+  name: miguel
+
+spec:
+  profile:
+    displayName: Miguel Schneider
+    email: miguel.schneider@tbz.ch
+
+  memberOf:
+    - hf-itcne24

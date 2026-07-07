@@ -1,0 +1,30 @@
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+namespace: backstage
+
+configMapGenerator:
+  - name: backstage-app-config
+    files:
+      - app-config.production.yaml=app-config-production.yaml
+  
+  - name: backstage-catalog
+    files:
+      - catalog/catalog-info.yaml
+      - catalog/groups.yaml
+      - catalog/repositories.yaml
+      - catalog/users.yaml
+
+generatorOptions:
+  disableNameSuffixHash: true
+
+resources:
+  - namespace.yaml
+  - configmap.yaml
+  - deployment.yaml
+  - service.yaml
+  - ingress.yaml
+
+
+
+
+

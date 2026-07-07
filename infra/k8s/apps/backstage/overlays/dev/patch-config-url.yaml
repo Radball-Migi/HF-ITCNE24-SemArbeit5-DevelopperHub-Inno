@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: backstage-config
+  namespace: backstage
+data:
+  APP_CONFIG_app_baseUrl: "http://backstage.local"
+  APP_CONFIG_backend_baseUrl: "http://backstage.local"

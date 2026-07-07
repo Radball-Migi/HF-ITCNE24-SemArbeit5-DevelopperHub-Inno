@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+
+metadata:
+  name: hf-itcne24-backstage-catalog
+  description: Zentraler Backstage Catalog
+
+spec:
+  targets:
+    - ./users.yaml
+    - ./groups.yaml
+    - ./repositories.yaml
