@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+
+metadata:
+  name: semesterarbeiten
+
+spec:
+  type: url
+  targets:
+
+    - https://raw.githubusercontent.com/Radball-Migi/HF-ITCNE24-SemArbeit3-MSVC-Lizenztool/main/catalog-info.yaml
+    - https://raw.githubusercontent.com/Radball-Migi/HF-ITCNE24-SemArbeit5-DevelopperHub-Inno/main/catalog-info.yaml
+    - https://raw.githubusercontent.com/Radball-Migi/HF-ITCNE24-SemArbeit2-BPMN-Personalprozess/main/catalog-info.yaml

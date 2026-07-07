@@ -55,6 +55,9 @@ exclude:
   - ressources/notizen/
   - documentation/Hauptteil/Notizen_aufbau.md
   - ressources/scripts/Logininfos.json
+  - ressources/docs/Evaluation.md
+  - infra/k8s/apps/backstage/docs/deployment-steps.md
+  - infra/k8s/apps/backstage/README.md
   
 
 # Exclude from processing.
