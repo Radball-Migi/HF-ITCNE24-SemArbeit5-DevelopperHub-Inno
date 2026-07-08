@@ -3,7 +3,7 @@ kind: Component
 
 metadata:
   name: hf-itcne24-semarbeit5-developperhub-inno
-  title: MSVC Lizenztool
+  title: Developper-Hub
   description: Devloper Hub für die Semesterarbeit 5 - Inno
 
   tags:
